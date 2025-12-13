@@ -2,9 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/search": "pages/search.js",
-  "/extract": "pages/extract.js",
-  "/whatsapp": "pages/whatsapp.js",
   "/": "pages/index.js",
+  "/extract": "pages/extract.js",
   "/validate": "pages/validate.js"
 }
